@@ -3,7 +3,7 @@
 
 int main()
 {
-
+	//“G
 	Enemy teki;
 
 	bool Loop = true;
